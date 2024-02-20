@@ -28,6 +28,7 @@ void displayMenu() {
   cout << "9. Delete Node After value" << endl;
   cout << "10. Delete a node in Linked List" << endl;
   cout << "11. Search A Node" << endl;
+  cout << "12. Reverse Linked List" << endl;
   cout << "0. Exit" << endl;
   return;
 }
